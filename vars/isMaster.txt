@@ -1,0 +1,5 @@
+<strong>isMaster()</strong>
+
+<p>
+Returns <code>true</code> if the current branch is <code>master</code>, <code>false</code> otherwise.
+</p>
